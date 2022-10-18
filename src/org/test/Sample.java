@@ -9,6 +9,11 @@ public class Sample {
 		System.out.println(age);
 
 		System.out.println("java");
+
+		System.out.println(123);
+
+		System.out.println("Selenium");
+
 	}
 
 }
