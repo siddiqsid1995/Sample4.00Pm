@@ -9,6 +9,11 @@ public class Sample {
 		System.out.println(age);
 
 		System.out.println("java");
+		
+		String s="java";
+		
+		System.out.println(s.charAt(3));
+		
 	}
 
 }
